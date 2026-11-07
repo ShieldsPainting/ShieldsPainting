@@ -1,16 +1,24 @@
-## Hi there 👋
+# Shields Painting
 
-<!--
-**ShieldsPainting/ShieldsPainting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Built Right. Painted Right.**
 
-Here are some ideas to get you started:
+Professional painting and property improvement services in Ontario, Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services
+- Residential and commercial painting
+- Drywall repairs and finishing
+- Interior and exterior renovations
+- Rental turnovers
+- Property maintenance
+
+## Contact
+**George Shields · Owner**  
+Phone: [613-922-4186](tel:+16139224186)  
+Email: [georgeshields1988@gmail.com](mailto:georgeshields1988@gmail.com)
+
+## Website
+The live site will be published with GitHub Pages at:
+
+https://shieldspainting.github.io/ShieldsPainting/
+
+The site is built from `index.html`. GitHub Actions automatically deploys changes pushed to the `main` branch.
