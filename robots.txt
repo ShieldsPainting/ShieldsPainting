@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shieldspainting.github.io/sitemap.xml
+Sitemap: https://shieldspainting.github.io/ShieldsPainting/sitemap.xml
